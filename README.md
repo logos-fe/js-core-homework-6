@@ -1,10 +1,10 @@
 #  JS Core homework 6
 
-1. https://www.codewars.com/kata/582e4c3406e37fcc770001ad
-2. https://www.codewars.com/kata/54ba84be607a92aa900000f1
-3. https://www.codewars.com/kata/520d9c27e9940532eb00018e
-4. https://www.codewars.com/kata/57096af70dad013aa200007b
-5. https://www.codewars.com/kata/52b7ed099cdc285c300001cd
+1. https://www.codewars.com/kata/reviews/58337176bccc5b9707000095/groups/58337176bccc5b9707000097
+2. https://www.codewars.com/kata/reviews/54cd002407ba21e38f00000f/groups/6273aca9995c3e00016d3805
+3. https://www.codewars.com/kata/reviews/520d9c27e9940532eb000191/groups/6273aed21ed198000129b733
+4. 
+5. 
 
 Sort
-1. https://www.codewars.com/kata/58ff1c8b13b001a5a50005b4
+1. https://www.codewars.com/kata/reviews/592bb7a0fe17f95b3300003e/groups/6273e304083474000139291a
